@@ -1,0 +1,9 @@
+F:\Studies\ВычПрактикум\labs\MaSureApox\MaSureApox\bin\Debug\MaSureApox.exe
+F:\Studies\ВычПрактикум\labs\MaSureApox\MaSureApox\bin\Debug\MaSureApox.pdb
+F:\Studies\ВычПрактикум\labs\MaSureApox\MaSureApox\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Studies\ВычПрактикум\labs\MaSureApox\MaSureApox\obj\x86\Debug\MaSureApox.FormMain.resources
+F:\Studies\ВычПрактикум\labs\MaSureApox\MaSureApox\obj\x86\Debug\MaSureApox.Properties.Resources.resources
+F:\Studies\ВычПрактикум\labs\MaSureApox\MaSureApox\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Studies\ВычПрактикум\labs\MaSureApox\MaSureApox\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Studies\ВычПрактикум\labs\MaSureApox\MaSureApox\obj\x86\Debug\MaSureApox.exe
+F:\Studies\ВычПрактикум\labs\MaSureApox\MaSureApox\obj\x86\Debug\MaSureApox.pdb
